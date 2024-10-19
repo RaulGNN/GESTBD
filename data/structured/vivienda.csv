@@ -6,19 +6,19 @@ propertyCode,url,address,size,floor,province,municipality,district,price,rooms,h
 105376875,https://www.idealista.com/inmueble/105376875/,calle de la Virgen de los Peligros,250.0,3,Madrid,Madrid,Centro,2200000.0,3,True,,False,True,True,False,4
 106190483,https://www.idealista.com/inmueble/106190483/,calle Duque de Tamames,215.0,1,Madrid,Madrid,Ciudad Lineal,1450000.0,5,True,True,True,True,True,True,3
 104662130,https://www.idealista.com/inmueble/104662130/,ronda de Sobradiel,380.0,,Madrid,Madrid,Hortaleza,2190000.0,7,,True,True,True,True,True,5
-104254787,https://www.idealista.com/inmueble/104254787/,subdistrict El Plantío,968.0,,Madrid,Madrid,Moncloa,4100000.0,6,,True,True,True,True,True,7
 104079750,https://www.idealista.com/inmueble/104079750/,subdistrict Canillas,438.0,,Madrid,Madrid,Hortaleza,1795000.0,5,,True,True,True,True,True,5
+104254787,https://www.idealista.com/inmueble/104254787/,subdistrict El Plantío,968.0,,Madrid,Madrid,Moncloa,4100000.0,6,,True,True,True,True,True,7
 86575273,https://www.idealista.com/inmueble/86575273/,subdistrict Conde Orgaz-Piovera,1198.0,,Madrid,Madrid,Hortaleza,5450000.0,7,,True,True,True,True,True,6
 105953148,https://www.idealista.com/inmueble/105953148/,calle del Poeta Joan Maragall,222.0,7,Madrid,Madrid,Tetuán,1599000.0,3,True,True,True,False,True,True,3
 105844720,https://www.idealista.com/inmueble/105844720/,calle de Alcalá,150.0,4,Madrid,Madrid,Barrio de Salamanca,1660000.0,3,True,,False,False,True,False,3
 105656413,https://www.idealista.com/inmueble/105656413/,subdistrict Palacio,198.0,1,Madrid,Madrid,Centro,1495000.0,3,True,,False,False,False,False,2
+104254611,https://www.idealista.com/obra-nueva/104254611/,"avenida Provisional Ahijones Berrocales, 62",85.0,1,Madrid,Madrid,Vicálvaro,320200.0,2,True,True,True,True,False,False,2
 104556674,https://www.idealista.com/obra-nueva/104556674/,"avenida Provisional Ahijones Berrocales, 62",105.0,1,Madrid,Madrid,Vicálvaro,354300.0,2,True,True,True,True,False,False,2
 104556912,https://www.idealista.com/obra-nueva/104556912/,"avenida Provisional Ahijones Berrocales, 62",102.0,1,Madrid,Madrid,Vicálvaro,381000.0,3,True,True,True,True,False,False,2
-104254611,https://www.idealista.com/obra-nueva/104254611/,"avenida Provisional Ahijones Berrocales, 62",85.0,1,Madrid,Madrid,Vicálvaro,320200.0,2,True,True,True,True,False,False,2
-104554313,https://www.idealista.com/obra-nueva/104554313/,calle Joaquín Lorenzo no number,114.0,1,Madrid,Madrid,Fuencarral,652000.0,3,True,True,True,True,False,False,2
-105935279,https://www.idealista.com/inmueble/105935279/,calle de Alcalá,242.0,3,Madrid,Madrid,Barrio de Salamanca,3895000.0,4,True,,False,False,True,False,5
-104554398,https://www.idealista.com/obra-nueva/104554398/,calle Joaquín Lorenzo no number,151.0,1,Madrid,Madrid,Fuencarral,850000.0,4,True,True,True,True,False,False,3
 104554408,https://www.idealista.com/obra-nueva/104554408/,calle Joaquín Lorenzo no number,146.0,7,Madrid,Madrid,Fuencarral,942000.0,4,True,True,True,True,False,False,3
+104554313,https://www.idealista.com/obra-nueva/104554313/,calle Joaquín Lorenzo no number,114.0,1,Madrid,Madrid,Fuencarral,652000.0,3,True,True,True,True,False,False,2
+104554398,https://www.idealista.com/obra-nueva/104554398/,calle Joaquín Lorenzo no number,151.0,1,Madrid,Madrid,Fuencarral,850000.0,4,True,True,True,True,False,False,3
+105935279,https://www.idealista.com/inmueble/105935279/,calle de Alcalá,242.0,3,Madrid,Madrid,Barrio de Salamanca,3895000.0,4,True,,False,False,True,False,5
 105298740,https://www.idealista.com/inmueble/105298740/,"calle de Juan de Urbieta, 49",160.0,2,Madrid,Madrid,Retiro,900000.0,1,False,,True,False,False,False,2
 106269895,https://www.idealista.com/inmueble/106269895/,"calle Riaza, 2  A",344.0,2,Madrid,Madrid,Moncloa,998800.0,5,True,True,True,True,True,True,4
 105887154,https://www.idealista.com/inmueble/105887154/,"calle de Hermosilla, 55",232.0,2,Madrid,Madrid,Barrio de Salamanca,4000000.0,4,True,,False,False,True,False,5
@@ -30,11 +30,11 @@ propertyCode,url,address,size,floor,province,municipality,district,price,rooms,h
 100972482,https://www.idealista.com/inmueble/100972482/,"calle de Roberto Domingo, 1",149.0,7,Madrid,Madrid,Barrio de Salamanca,1650000.0,3,True,True,True,True,True,False,3
 105354974,https://www.idealista.com/inmueble/105354974/,calle del General Oráa,153.0,3,Madrid,Madrid,Barrio de Salamanca,1700000.0,4,True,,False,False,True,False,2
 105945107,https://www.idealista.com/inmueble/105945107/,calle de Maldonado,233.0,6,Madrid,Madrid,Barrio de Salamanca,2550000.0,4,True,True,False,False,True,True,5
-106053407,https://www.idealista.com/inmueble/106053407/,calle de Lagasca,347.0,1,Madrid,Madrid,Barrio de Salamanca,6890000.0,5,True,True,False,True,True,False,6
 106034136,https://www.idealista.com/inmueble/106034136/,calle de la Aduana no number,50.0,1,Madrid,Madrid,Centro,270000.0,2,True,,True,False,False,False,1
+106053407,https://www.idealista.com/inmueble/106053407/,calle de Lagasca,347.0,1,Madrid,Madrid,Barrio de Salamanca,6890000.0,5,True,True,False,True,True,False,6
 105692944,https://www.idealista.com/inmueble/105692944/,"calle de Juan Bravo, 3",62.0,3,Madrid,Madrid,Barrio de Salamanca,899000.0,1,True,True,False,False,True,False,1
-105338148,https://www.idealista.com/inmueble/105338148/,calle de Don Ramón de la Cruz,123.0,1,Madrid,Madrid,Barrio de Salamanca,1250000.0,3,True,,False,False,True,False,2
 105379719,https://www.idealista.com/inmueble/105379719/,calle del Alcalde Sainz de Baranda,94.0,7,Madrid,Madrid,Retiro,950000.0,3,True,,True,False,True,False,2
+105338148,https://www.idealista.com/inmueble/105338148/,calle de Don Ramón de la Cruz,123.0,1,Madrid,Madrid,Barrio de Salamanca,1250000.0,3,True,,False,False,True,False,2
 106235078,https://www.idealista.com/inmueble/106235078/,calle de Sierra Gádor,54.0,3,Madrid,Madrid,Villa de Vallecas,235000.0,2,False,,False,False,False,False,2
 106232981,https://www.idealista.com/inmueble/106232981/,calle de Sierra Gádor,37.0,1,Madrid,Madrid,Villa de Vallecas,174900.0,1,False,,False,False,False,False,1
 105904644,https://www.idealista.com/inmueble/105904644/,subdistrict Cuatro Caminos,97.0,7,Madrid,Madrid,Tetuán,675000.0,3,True,,False,False,False,False,1
@@ -46,19 +46,19 @@ propertyCode,url,address,size,floor,province,municipality,district,price,rooms,h
 105376875,https://www.idealista.com/inmueble/105376875/,calle de la Virgen de los Peligros,250.0,3,Madrid,Madrid,Centro,2200000.0,3,True,,False,True,True,False,4
 106190483,https://www.idealista.com/inmueble/106190483/,calle Duque de Tamames,215.0,1,Madrid,Madrid,Ciudad Lineal,1450000.0,5,True,True,True,True,True,True,3
 104662130,https://www.idealista.com/inmueble/104662130/,ronda de Sobradiel,380.0,,Madrid,Madrid,Hortaleza,2190000.0,7,,True,True,True,True,True,5
-104254787,https://www.idealista.com/inmueble/104254787/,subdistrict El Plantío,968.0,,Madrid,Madrid,Moncloa,4100000.0,6,,True,True,True,True,True,7
 104079750,https://www.idealista.com/inmueble/104079750/,subdistrict Canillas,438.0,,Madrid,Madrid,Hortaleza,1795000.0,5,,True,True,True,True,True,5
+104254787,https://www.idealista.com/inmueble/104254787/,subdistrict El Plantío,968.0,,Madrid,Madrid,Moncloa,4100000.0,6,,True,True,True,True,True,7
 86575273,https://www.idealista.com/inmueble/86575273/,subdistrict Conde Orgaz-Piovera,1198.0,,Madrid,Madrid,Hortaleza,5450000.0,7,,True,True,True,True,True,6
 105953148,https://www.idealista.com/inmueble/105953148/,calle del Poeta Joan Maragall,222.0,7,Madrid,Madrid,Tetuán,1599000.0,3,True,True,True,False,True,True,3
 105844720,https://www.idealista.com/inmueble/105844720/,calle de Alcalá,150.0,4,Madrid,Madrid,Barrio de Salamanca,1660000.0,3,True,,False,False,True,False,3
 105656413,https://www.idealista.com/inmueble/105656413/,subdistrict Palacio,198.0,1,Madrid,Madrid,Centro,1495000.0,3,True,,False,False,False,False,2
+104254611,https://www.idealista.com/obra-nueva/104254611/,"avenida Provisional Ahijones Berrocales, 62",85.0,1,Madrid,Madrid,Vicálvaro,320200.0,2,True,True,True,True,False,False,2
 104556674,https://www.idealista.com/obra-nueva/104556674/,"avenida Provisional Ahijones Berrocales, 62",105.0,1,Madrid,Madrid,Vicálvaro,354300.0,2,True,True,True,True,False,False,2
 104556912,https://www.idealista.com/obra-nueva/104556912/,"avenida Provisional Ahijones Berrocales, 62",102.0,1,Madrid,Madrid,Vicálvaro,381000.0,3,True,True,True,True,False,False,2
-104254611,https://www.idealista.com/obra-nueva/104254611/,"avenida Provisional Ahijones Berrocales, 62",85.0,1,Madrid,Madrid,Vicálvaro,320200.0,2,True,True,True,True,False,False,2
-104554313,https://www.idealista.com/obra-nueva/104554313/,calle Joaquín Lorenzo no number,114.0,1,Madrid,Madrid,Fuencarral,652000.0,3,True,True,True,True,False,False,2
-105935279,https://www.idealista.com/inmueble/105935279/,calle de Alcalá,242.0,3,Madrid,Madrid,Barrio de Salamanca,3895000.0,4,True,,False,False,True,False,5
-104554398,https://www.idealista.com/obra-nueva/104554398/,calle Joaquín Lorenzo no number,151.0,1,Madrid,Madrid,Fuencarral,850000.0,4,True,True,True,True,False,False,3
 104554408,https://www.idealista.com/obra-nueva/104554408/,calle Joaquín Lorenzo no number,146.0,7,Madrid,Madrid,Fuencarral,942000.0,4,True,True,True,True,False,False,3
+104554313,https://www.idealista.com/obra-nueva/104554313/,calle Joaquín Lorenzo no number,114.0,1,Madrid,Madrid,Fuencarral,652000.0,3,True,True,True,True,False,False,2
+104554398,https://www.idealista.com/obra-nueva/104554398/,calle Joaquín Lorenzo no number,151.0,1,Madrid,Madrid,Fuencarral,850000.0,4,True,True,True,True,False,False,3
+105935279,https://www.idealista.com/inmueble/105935279/,calle de Alcalá,242.0,3,Madrid,Madrid,Barrio de Salamanca,3895000.0,4,True,,False,False,True,False,5
 105298740,https://www.idealista.com/inmueble/105298740/,"calle de Juan de Urbieta, 49",160.0,2,Madrid,Madrid,Retiro,900000.0,1,False,,True,False,False,False,2
 106269895,https://www.idealista.com/inmueble/106269895/,"calle Riaza, 2  A",344.0,2,Madrid,Madrid,Moncloa,998800.0,5,True,True,True,True,True,True,4
 105887154,https://www.idealista.com/inmueble/105887154/,"calle de Hermosilla, 55",232.0,2,Madrid,Madrid,Barrio de Salamanca,4000000.0,4,True,,False,False,True,False,5
@@ -70,132 +70,212 @@ propertyCode,url,address,size,floor,province,municipality,district,price,rooms,h
 100972482,https://www.idealista.com/inmueble/100972482/,"calle de Roberto Domingo, 1",149.0,7,Madrid,Madrid,Barrio de Salamanca,1650000.0,3,True,True,True,True,True,False,3
 105354974,https://www.idealista.com/inmueble/105354974/,calle del General Oráa,153.0,3,Madrid,Madrid,Barrio de Salamanca,1700000.0,4,True,,False,False,True,False,2
 105945107,https://www.idealista.com/inmueble/105945107/,calle de Maldonado,233.0,6,Madrid,Madrid,Barrio de Salamanca,2550000.0,4,True,True,False,False,True,True,5
-106053407,https://www.idealista.com/inmueble/106053407/,calle de Lagasca,347.0,1,Madrid,Madrid,Barrio de Salamanca,6890000.0,5,True,True,False,True,True,False,6
 106034136,https://www.idealista.com/inmueble/106034136/,calle de la Aduana no number,50.0,1,Madrid,Madrid,Centro,270000.0,2,True,,True,False,False,False,1
+106053407,https://www.idealista.com/inmueble/106053407/,calle de Lagasca,347.0,1,Madrid,Madrid,Barrio de Salamanca,6890000.0,5,True,True,False,True,True,False,6
 105692944,https://www.idealista.com/inmueble/105692944/,"calle de Juan Bravo, 3",62.0,3,Madrid,Madrid,Barrio de Salamanca,899000.0,1,True,True,False,False,True,False,1
-105338148,https://www.idealista.com/inmueble/105338148/,calle de Don Ramón de la Cruz,123.0,1,Madrid,Madrid,Barrio de Salamanca,1250000.0,3,True,,False,False,True,False,2
 105379719,https://www.idealista.com/inmueble/105379719/,calle del Alcalde Sainz de Baranda,94.0,7,Madrid,Madrid,Retiro,950000.0,3,True,,True,False,True,False,2
+105338148,https://www.idealista.com/inmueble/105338148/,calle de Don Ramón de la Cruz,123.0,1,Madrid,Madrid,Barrio de Salamanca,1250000.0,3,True,,False,False,True,False,2
 106235078,https://www.idealista.com/inmueble/106235078/,calle de Sierra Gádor,54.0,3,Madrid,Madrid,Villa de Vallecas,235000.0,2,False,,False,False,False,False,2
 106232981,https://www.idealista.com/inmueble/106232981/,calle de Sierra Gádor,37.0,1,Madrid,Madrid,Villa de Vallecas,174900.0,1,False,,False,False,False,False,1
 105904644,https://www.idealista.com/inmueble/105904644/,subdistrict Cuatro Caminos,97.0,7,Madrid,Madrid,Tetuán,675000.0,3,True,,False,False,False,False,1
 105425617,https://www.idealista.com/inmueble/105425617/,"calle del Príncipe de Vergara, 4",175.0,1,Madrid,Madrid,Barrio de Salamanca,1830000.0,2,True,,False,False,True,False,3
-97875752,https://www.idealista.com/inmueble/97875752/,paseo de La Habana,430.0,,Madrid,Madrid,Chamartín,3300000.0,6,,True,False,True,True,False,5
 102955387,https://www.idealista.com/inmueble/102955387/,calle de Claudio Coello no number,144.0,2,Madrid,Madrid,Barrio de Salamanca,1700000.0,3,True,,False,False,True,False,4
+97875752,https://www.idealista.com/inmueble/97875752/,paseo de La Habana,430.0,,Madrid,Madrid,Chamartín,3300000.0,6,,True,False,True,True,False,5
 101399733,https://www.idealista.com/inmueble/101399733/,calle Santa Elvira,238.0,,Madrid,Madrid,Moncloa,865000.0,4,,True,True,True,False,True,4
 105893822,https://www.idealista.com/inmueble/105893822/,calle Virgen de los Rosales,505.0,,Madrid,Madrid,Moncloa,2280000.0,7,,True,True,True,True,True,6
-106143023,https://www.idealista.com/inmueble/106143023/,calle de Núñez de Balboa,239.0,5,Madrid,Madrid,Barrio de Salamanca,2900000.0,4,True,True,True,,True,,3
-106191081,https://www.idealista.com/inmueble/106191081/,"plaza de Tirso de Molina, 12",230.0,3,Madrid,Madrid,Centro,1300000.0,4,True,,,,True,,2
 106137574,https://www.idealista.com/inmueble/106137574/,paseo de la Castellana,298.0,5,Madrid,Madrid,Barrio de Salamanca,5300000.0,4,True,,,,True,,5
+106191081,https://www.idealista.com/inmueble/106191081/,"plaza de Tirso de Molina, 12",230.0,3,Madrid,Madrid,Centro,1300000.0,4,True,,,,True,,2
 106083962,https://www.idealista.com/inmueble/106083962/,paseo de la Castellana,298.0,3,Madrid,Madrid,Barrio de Salamanca,5350000.0,5,True,,,,True,,5
-104103711,https://www.idealista.com/inmueble/104103711/,calle de la Madre de Dios,886.0,,Madrid,Madrid,Chamartín,4900000.0,6,,True,True,True,True,,7
+106143023,https://www.idealista.com/inmueble/106143023/,calle de Núñez de Balboa,239.0,5,Madrid,Madrid,Barrio de Salamanca,2900000.0,4,True,True,True,,True,,3
 103550321,https://www.idealista.com/inmueble/103550321/,calle del Marqués de Urquijo,306.0,5,Madrid,Madrid,Moncloa,1849000.0,5,True,True,,,True,,5
+105684691,https://www.idealista.com/inmueble/105684691/,calle de Manuel Gutiérrez Mellado,160.0,8,Madrid,Madrid,Hortaleza,1065000.0,3,True,True,True,True,True,True,3
+104103711,https://www.idealista.com/inmueble/104103711/,calle de la Madre de Dios,886.0,,Madrid,Madrid,Chamartín,4900000.0,6,,True,True,True,True,,7
 100421542,https://www.idealista.com/inmueble/100421542/,calle de Goya,379.0,3,Madrid,Madrid,Barrio de Salamanca,3600000.0,5,True,,,,True,,5
 106016508,https://www.idealista.com/inmueble/106016508/,calle de las Petunias,349.0,,Madrid,Madrid,Hortaleza,1425000.0,6,,True,True,True,True,True,4
-105684691,https://www.idealista.com/inmueble/105684691/,calle de Manuel Gutiérrez Mellado,160.0,8,Madrid,Madrid,Hortaleza,1065000.0,3,True,True,True,True,True,True,3
-96982668,https://www.idealista.com/inmueble/96982668/,calle de Zumárraga,800.0,,Madrid,Madrid,Moncloa,2950000.0,6,,True,,,True,True,6
-97801997,https://www.idealista.com/inmueble/97801997/,calle Navarredonda de Gredos,862.0,,Madrid,Madrid,Fuencarral,1970000.0,8,,True,True,True,True,True,7
-103792977,https://www.idealista.com/inmueble/103792977/,calle Lamiaco,580.0,,Madrid,Madrid,Moncloa,2950000.0,6,,True,,True,True,True,8
 105289238,https://www.idealista.com/inmueble/105289238/,calle de Artesa de Segre,80.0,bj,Madrid,Madrid,Moncloa,490000.0,1,True,True,False,True,True,True,1
 105891810,https://www.idealista.com/inmueble/105891810/,avenida del Papa Negro,385.0,,Madrid,Madrid,Hortaleza,1890000.0,5,,True,True,True,True,True,4
+96982668,https://www.idealista.com/inmueble/96982668/,calle de Zumárraga,800.0,,Madrid,Madrid,Moncloa,2950000.0,6,,True,,,True,True,6
+103792977,https://www.idealista.com/inmueble/103792977/,calle Lamiaco,580.0,,Madrid,Madrid,Moncloa,2950000.0,6,,True,,True,True,True,8
+97801997,https://www.idealista.com/inmueble/97801997/,calle Navarredonda de Gredos,862.0,,Madrid,Madrid,Fuencarral,1970000.0,8,,True,True,True,True,True,7
 105451572,https://www.idealista.com/inmueble/105451572/,avenida de las Azaleas,334.0,,Madrid,Madrid,Hortaleza,2050000.0,5,,True,True,True,True,True,5
 106280453,https://www.idealista.com/inmueble/106280453/,calle de Daimiel,94.0,4,Madrid,Madrid,Latina,450000.0,3,True,,True,False,False,False,2
-104111225,https://www.idealista.com/inmueble/104111225/,subdistrict Nueva España,389.0,,Madrid,Madrid,Chamartín,3110000.0,5,,True,False,True,True,False,5
 101344227,https://www.idealista.com/inmueble/101344227/,subdistrict Conde Orgaz-Piovera,520.0,,Madrid,Madrid,Hortaleza,2500000.0,5,,True,True,True,True,True,7
-106071251,https://www.idealista.com/inmueble/106071251/,"calle de Barbieri, 8",103.0,4,Madrid,Madrid,Centro,595000.0,2,True,,False,False,True,False,2
+104111225,https://www.idealista.com/inmueble/104111225/,subdistrict Nueva España,389.0,,Madrid,Madrid,Chamartín,3110000.0,5,,True,False,True,True,False,5
 106134199,https://www.idealista.com/inmueble/106134199/,subdistrict Quintana,56.0,2,Madrid,Madrid,Ciudad Lineal,259000.0,2,False,,True,False,False,False,1
+106071251,https://www.idealista.com/inmueble/106071251/,"calle de Barbieri, 8",103.0,4,Madrid,Madrid,Centro,595000.0,2,True,,False,False,True,False,2
 103952448,https://www.idealista.com/inmueble/103952448/,paseo de La Habana,420.0,,Madrid,Madrid,Chamartín,3110000.0,5,,True,True,True,True,True,5
-106226512,https://www.idealista.com/inmueble/106226512/,"calle de Modesto Lafuente, 65",157.0,5,Madrid,Madrid,Chamberí,1565000.0,3,True,,True,False,True,False,3
 105725419,https://www.idealista.com/inmueble/105725419/,calle Bola del Mundo,320.0,,Madrid,Madrid,Moncloa,1250000.0,5,,True,True,True,True,True,5
-105829686,https://www.idealista.com/inmueble/105829686/,calle de la Povedilla,94.0,4,Madrid,Madrid,Barrio de Salamanca,889000.0,3,True,,False,False,True,False,2
-105528344,https://www.idealista.com/inmueble/105528344/,calle del Rollo,115.0,1,Madrid,Madrid,Centro,890000.0,2,True,True,False,False,True,False,2
-104437905,https://www.idealista.com/inmueble/104437905/,"calle de Numancia, 2",350.0,6,Madrid,Madrid,Tetuán,1700000.0,4,True,True,True,True,True,True,3
-105449412,https://www.idealista.com/inmueble/105449412/,calle de Castelló,117.0,4,Madrid,Madrid,Barrio de Salamanca,1195000.0,2,True,,True,False,True,False,2
-104484357,https://www.idealista.com/inmueble/104484357/,calle de la Madre de Dios,886.0,,Madrid,Madrid,Chamartín,4700000.0,6,,True,True,True,True,True,7
+106226512,https://www.idealista.com/inmueble/106226512/,"calle de Modesto Lafuente, 65",157.0,5,Madrid,Madrid,Chamberí,1565000.0,3,True,,True,False,True,False,3
 105527162,https://www.idealista.com/inmueble/105527162/,"calle Arzobispo Morcillo, 14",160.0,5,Madrid,Madrid,Fuencarral,750000.0,4,True,True,True,True,True,True,2
 103355651,https://www.idealista.com/inmueble/103355651/,calle de Játiva,105.0,7,Madrid,Madrid,Retiro,670000.0,3,True,,False,True,True,False,2
+105528344,https://www.idealista.com/inmueble/105528344/,calle del Rollo,115.0,1,Madrid,Madrid,Centro,890000.0,2,True,True,False,False,True,False,2
+105449412,https://www.idealista.com/inmueble/105449412/,calle de Castelló,117.0,4,Madrid,Madrid,Barrio de Salamanca,1195000.0,2,True,,True,False,True,False,2
+105829686,https://www.idealista.com/inmueble/105829686/,calle de la Povedilla,94.0,4,Madrid,Madrid,Barrio de Salamanca,889000.0,3,True,,False,False,True,False,2
+104437905,https://www.idealista.com/inmueble/104437905/,"calle de Numancia, 2",350.0,6,Madrid,Madrid,Tetuán,1700000.0,4,True,True,True,True,True,True,3
 105743974,https://www.idealista.com/inmueble/105743974/,calle de Fuencarral,257.0,3,Madrid,Madrid,Centro,2560000.0,4,True,,True,False,True,False,4
+104484357,https://www.idealista.com/inmueble/104484357/,calle de la Madre de Dios,886.0,,Madrid,Madrid,Chamartín,4700000.0,6,,True,True,True,True,True,7
 105924592,https://www.idealista.com/inmueble/105924592/,calle del Alcalde Sainz de Baranda,115.0,5,Madrid,Madrid,Retiro,895000.0,3,True,True,True,False,True,False,2
 104400450,https://www.idealista.com/inmueble/104400450/,subdistrict Fuentelarreina,862.0,,Madrid,Madrid,Fuencarral,1970000.0,9,,True,True,False,True,True,9
 105968310,https://www.idealista.com/inmueble/105968310/,calle de Bailén,164.0,4,Madrid,Madrid,Centro,1100000.0,3,True,,,,True,,2
-103666203,https://www.idealista.com/inmueble/103666203/,"avenida de América, 37",236.0,2,Madrid,Madrid,Chamartín,1100000.0,3,True,True,False,False,True,False,3
+105109668,https://www.idealista.com/inmueble/105109668/,plaza de los Sagrados Corazones,268.0,6,Madrid,Madrid,Chamartín,1625000.0,5,True,True,False,False,True,False,5
 105155727,https://www.idealista.com/inmueble/105155727/,avenida de Machupichu,141.0,4,Madrid,Madrid,Hortaleza,870000.0,3,True,True,True,True,True,True,2
-103666203,https://www.idealista.com/inmueble/103666203/,"avenida de América, 37",236.0,2,Madrid,Madrid,Chamartín,1100000.0,3,True,True,False,False,True,False,3
+102955387,https://www.idealista.com/inmueble/102955387/,calle de Claudio Coello no number,144.0,2,Madrid,Madrid,Barrio de Salamanca,1700000.0,3,True,,False,False,True,False,4
+97875752,https://www.idealista.com/inmueble/97875752/,paseo de La Habana,430.0,,Madrid,Madrid,Chamartín,3300000.0,6,,True,False,True,True,False,5
+101399733,https://www.idealista.com/inmueble/101399733/,calle Santa Elvira,238.0,,Madrid,Madrid,Moncloa,865000.0,4,,True,True,True,False,True,4
+105893822,https://www.idealista.com/inmueble/105893822/,calle Virgen de los Rosales,505.0,,Madrid,Madrid,Moncloa,2280000.0,7,,True,True,True,True,True,6
+106137574,https://www.idealista.com/inmueble/106137574/,paseo de la Castellana,298.0,5,Madrid,Madrid,Barrio de Salamanca,5300000.0,4,True,,,,True,,5
+106191081,https://www.idealista.com/inmueble/106191081/,"plaza de Tirso de Molina, 12",230.0,3,Madrid,Madrid,Centro,1300000.0,4,True,,,,True,,2
+106083962,https://www.idealista.com/inmueble/106083962/,paseo de la Castellana,298.0,3,Madrid,Madrid,Barrio de Salamanca,5350000.0,5,True,,,,True,,5
+106143023,https://www.idealista.com/inmueble/106143023/,calle de Núñez de Balboa,239.0,5,Madrid,Madrid,Barrio de Salamanca,2900000.0,4,True,True,True,,True,,3
+103550321,https://www.idealista.com/inmueble/103550321/,calle del Marqués de Urquijo,306.0,5,Madrid,Madrid,Moncloa,1849000.0,5,True,True,,,True,,5
+105684691,https://www.idealista.com/inmueble/105684691/,calle de Manuel Gutiérrez Mellado,160.0,8,Madrid,Madrid,Hortaleza,1065000.0,3,True,True,True,True,True,True,3
+104103711,https://www.idealista.com/inmueble/104103711/,calle de la Madre de Dios,886.0,,Madrid,Madrid,Chamartín,4900000.0,6,,True,True,True,True,,7
+100421542,https://www.idealista.com/inmueble/100421542/,calle de Goya,379.0,3,Madrid,Madrid,Barrio de Salamanca,3600000.0,5,True,,,,True,,5
+106016508,https://www.idealista.com/inmueble/106016508/,calle de las Petunias,349.0,,Madrid,Madrid,Hortaleza,1425000.0,6,,True,True,True,True,True,4
+105289238,https://www.idealista.com/inmueble/105289238/,calle de Artesa de Segre,80.0,bj,Madrid,Madrid,Moncloa,490000.0,1,True,True,False,True,True,True,1
+105891810,https://www.idealista.com/inmueble/105891810/,avenida del Papa Negro,385.0,,Madrid,Madrid,Hortaleza,1890000.0,5,,True,True,True,True,True,4
+96982668,https://www.idealista.com/inmueble/96982668/,calle de Zumárraga,800.0,,Madrid,Madrid,Moncloa,2950000.0,6,,True,,,True,True,6
+103792977,https://www.idealista.com/inmueble/103792977/,calle Lamiaco,580.0,,Madrid,Madrid,Moncloa,2950000.0,6,,True,,True,True,True,8
+97801997,https://www.idealista.com/inmueble/97801997/,calle Navarredonda de Gredos,862.0,,Madrid,Madrid,Fuencarral,1970000.0,8,,True,True,True,True,True,7
+105451572,https://www.idealista.com/inmueble/105451572/,avenida de las Azaleas,334.0,,Madrid,Madrid,Hortaleza,2050000.0,5,,True,True,True,True,True,5
+106280453,https://www.idealista.com/inmueble/106280453/,calle de Daimiel,94.0,4,Madrid,Madrid,Latina,450000.0,3,True,,True,False,False,False,2
+101344227,https://www.idealista.com/inmueble/101344227/,subdistrict Conde Orgaz-Piovera,520.0,,Madrid,Madrid,Hortaleza,2500000.0,5,,True,True,True,True,True,7
+104111225,https://www.idealista.com/inmueble/104111225/,subdistrict Nueva España,389.0,,Madrid,Madrid,Chamartín,3110000.0,5,,True,False,True,True,False,5
+106134199,https://www.idealista.com/inmueble/106134199/,subdistrict Quintana,56.0,2,Madrid,Madrid,Ciudad Lineal,259000.0,2,False,,True,False,False,False,1
+106071251,https://www.idealista.com/inmueble/106071251/,"calle de Barbieri, 8",103.0,4,Madrid,Madrid,Centro,595000.0,2,True,,False,False,True,False,2
+103952448,https://www.idealista.com/inmueble/103952448/,paseo de La Habana,420.0,,Madrid,Madrid,Chamartín,3110000.0,5,,True,True,True,True,True,5
+105725419,https://www.idealista.com/inmueble/105725419/,calle Bola del Mundo,320.0,,Madrid,Madrid,Moncloa,1250000.0,5,,True,True,True,True,True,5
+106226512,https://www.idealista.com/inmueble/106226512/,"calle de Modesto Lafuente, 65",157.0,5,Madrid,Madrid,Chamberí,1565000.0,3,True,,True,False,True,False,3
+105527162,https://www.idealista.com/inmueble/105527162/,"calle Arzobispo Morcillo, 14",160.0,5,Madrid,Madrid,Fuencarral,750000.0,4,True,True,True,True,True,True,2
+103355651,https://www.idealista.com/inmueble/103355651/,calle de Játiva,105.0,7,Madrid,Madrid,Retiro,670000.0,3,True,,False,True,True,False,2
+105528344,https://www.idealista.com/inmueble/105528344/,calle del Rollo,115.0,1,Madrid,Madrid,Centro,890000.0,2,True,True,False,False,True,False,2
+105449412,https://www.idealista.com/inmueble/105449412/,calle de Castelló,117.0,4,Madrid,Madrid,Barrio de Salamanca,1195000.0,2,True,,True,False,True,False,2
+105829686,https://www.idealista.com/inmueble/105829686/,calle de la Povedilla,94.0,4,Madrid,Madrid,Barrio de Salamanca,889000.0,3,True,,False,False,True,False,2
+104437905,https://www.idealista.com/inmueble/104437905/,"calle de Numancia, 2",350.0,6,Madrid,Madrid,Tetuán,1700000.0,4,True,True,True,True,True,True,3
+105743974,https://www.idealista.com/inmueble/105743974/,calle de Fuencarral,257.0,3,Madrid,Madrid,Centro,2560000.0,4,True,,True,False,True,False,4
+104484357,https://www.idealista.com/inmueble/104484357/,calle de la Madre de Dios,886.0,,Madrid,Madrid,Chamartín,4700000.0,6,,True,True,True,True,True,7
+105924592,https://www.idealista.com/inmueble/105924592/,calle del Alcalde Sainz de Baranda,115.0,5,Madrid,Madrid,Retiro,895000.0,3,True,True,True,False,True,False,2
+104400450,https://www.idealista.com/inmueble/104400450/,subdistrict Fuentelarreina,862.0,,Madrid,Madrid,Fuencarral,1970000.0,9,,True,True,False,True,True,9
+105968310,https://www.idealista.com/inmueble/105968310/,calle de Bailén,164.0,4,Madrid,Madrid,Centro,1100000.0,3,True,,,,True,,2
+105109668,https://www.idealista.com/inmueble/105109668/,plaza de los Sagrados Corazones,268.0,6,Madrid,Madrid,Chamartín,1625000.0,5,True,True,False,False,True,False,5
 105155727,https://www.idealista.com/inmueble/105155727/,avenida de Machupichu,141.0,4,Madrid,Madrid,Hortaleza,870000.0,3,True,True,True,True,True,True,2
-105020455,https://www.idealista.com/inmueble/105020455/,subdistrict Almagro,196.0,7,Madrid,Madrid,Chamberí,1895000.0,3,True,True,True,False,False,False,2
-102911946,https://www.idealista.com/inmueble/102911946/,calle de Villanueva,238.0,1,Madrid,Madrid,Barrio de Salamanca,3750000.0,4,True,,False,False,True,False,3
-104952998,https://www.idealista.com/inmueble/104952998/,calle del Duque de Sesto,133.0,1,Madrid,Madrid,Barrio de Salamanca,1350000.0,2,True,,False,False,True,False,3
-105368182,https://www.idealista.com/inmueble/105368182/,avenida de Pío XII,187.0,2,Madrid,Madrid,Chamartín,950000.0,4,True,True,True,True,True,True,3
-104747069,https://www.idealista.com/inmueble/104747069/,calle de Goya no number,379.0,3,Madrid,Madrid,Barrio de Salamanca,3600000.0,5,True,,False,False,True,False,5
-99095593,https://www.idealista.com/inmueble/99095593/,calle SEGOVIA,171.0,7,Madrid,Madrid,Centro,1175000.0,4,True,,True,False,True,False,3
-105014946,https://www.idealista.com/inmueble/105014946/,calle de Serrano,231.0,2,Madrid,Madrid,Barrio de Salamanca,3600000.0,3,True,True,,,True,,4
-105070649,https://www.idealista.com/inmueble/105070649/,"calle de Cambrils, 3 --B",753.0,,Madrid,Madrid,Fuencarral,2460000.0,7,,True,True,True,True,True,6
-105278937,https://www.idealista.com/inmueble/105278937/,calle del Doctor Esquerdo,123.0,2,Madrid,Madrid,Retiro,629000.0,5,True,,False,False,True,False,2
-101956879,https://www.idealista.com/inmueble/101956879/,ZUMARRAGA,780.0,,Madrid,Madrid,Moncloa,2950000.0,5,,True,True,True,False,True,5
-105902277,https://www.idealista.com/inmueble/105902277/,subdistrict Palacio,53.0,2,Madrid,Madrid,Centro,430000.0,1,False,,False,False,True,False,1
-106158684,https://www.idealista.com/inmueble/106158684/,calle del Conde de Peñalver,170.0,4,Madrid,Madrid,Barrio de Salamanca,2300000.0,3,True,,True,False,False,False,2
-105904277,https://www.idealista.com/inmueble/105904277/,subdistrict Las Tablas,114.0,6,Madrid,Madrid,Fuencarral,640000.0,3,True,True,False,True,False,True,3
-101144968,https://www.idealista.com/inmueble/101144968/,PARADORES,1500.0,,Madrid,Madrid,Moncloa,3100000.0,6,,True,True,True,True,True,7
-105392078,https://www.idealista.com/inmueble/105392078/,calle de Hermosilla,115.0,1,Madrid,Madrid,Barrio de Salamanca,1420000.0,2,True,,False,False,True,False,3
-105580740,https://www.idealista.com/inmueble/105580740/,"calle del Monasterio de las Batuecas, 23",163.0,bj,Madrid,Madrid,Fuencarral,727000.0,3,True,True,True,True,True,True,2
-105574069,https://www.idealista.com/inmueble/105574069/,subdistrict Las Tablas,73.0,6,Madrid,Madrid,Fuencarral,560000.0,2,True,True,True,True,True,True,1
-93038743,https://www.idealista.com/inmueble/93038743/,subdistrict Valdemarín,340.0,2,Madrid,Madrid,Moncloa,1450000.0,5,True,True,True,True,True,True,5
-105199032,https://www.idealista.com/inmueble/105199032/,subdistrict Palacio,154.0,2,Madrid,Madrid,Centro,1113000.0,4,True,,False,False,False,False,2
-105609718,https://www.idealista.com/inmueble/105609718/,subdistrict Valdemarín,143.0,1,Madrid,Madrid,Moncloa,980000.0,3,True,True,,True,True,True,3
-94914491,https://www.idealista.com/inmueble/94914491/,subdistrict Conde Orgaz-Piovera,720.0,,Madrid,Madrid,Hortaleza,3100000.0,5,,True,False,True,True,True,5
-99851911,https://www.idealista.com/inmueble/99851911/,"calle de la Salud, 12",196.0,2,Madrid,Madrid,Centro,1290000.0,3,True,,,,True,,2
-104602745,https://www.idealista.com/inmueble/104602745/,"calle de Argensola, 11",74.0,2,Madrid,Madrid,Centro,645000.0,2,True,,False,False,True,False,1
-103365843,https://www.idealista.com/inmueble/103365843/,"calle de Mesonero Romanos, 4",147.0,5,Madrid,Madrid,Centro,1080000.0,4,True,,True,False,True,False,3
-105569931,https://www.idealista.com/inmueble/105569931/,subdistrict San Pascual,75.0,10,Madrid,Madrid,Ciudad Lineal,555000.0,2,True,True,True,True,True,True,1
-104180285,https://www.idealista.com/inmueble/104180285/,subdistrict Conde Orgaz-Piovera,800.0,,Madrid,Madrid,Hortaleza,2450000.0,5,,True,True,True,False,True,6
-103565392,https://www.idealista.com/inmueble/103565392/,calle de Santolinas,160.0,,Madrid,Madrid,Chamartín,1050000.0,3,,,True,False,True,True,3
-104499449,https://www.idealista.com/inmueble/104499449/,calle de Goya,379.0,3,Madrid,Madrid,Barrio de Salamanca,3600000.0,5,True,,True,False,True,False,5
-105197920,https://www.idealista.com/inmueble/105197920/,plaza Manolete,165.0,15,Madrid,Madrid,Tetuán,1175000.0,3,True,True,False,False,True,False,3
-106026132,https://www.idealista.com/inmueble/106026132/,calle de Toledo,89.0,4,Madrid,Madrid,Centro,529000.0,3,True,,False,False,True,False,1
-96157390,https://www.idealista.com/inmueble/96157390/,calle de Recoletos no number,247.0,1,Madrid,Madrid,Barrio de Salamanca,2600000.0,4,True,,False,False,True,False,3
-106054735,https://www.idealista.com/inmueble/106054735/,calle de Guillermo de Osma,128.0,4,Madrid,Madrid,Arganzuela,660000.0,3,True,True,True,True,True,False,2
-104281658,https://www.idealista.com/inmueble/104281658/,calle de Cambrils,753.0,,Madrid,Madrid,Fuencarral,2460000.0,7,,True,True,True,True,True,6
-104356208,https://www.idealista.com/inmueble/104356208/,calle de Ferraz,316.0,3,Madrid,Madrid,Moncloa,1890000.0,4,True,,True,False,True,False,3
-104177407,https://www.idealista.com/inmueble/104177407/,calle de Artesa de Segre,80.0,bj,Madrid,Madrid,Moncloa,490000.0,1,True,True,False,True,True,True,1
-106095508,https://www.idealista.com/inmueble/106095508/,subdistrict Alameda de Osuna,333.0,,Madrid,Madrid,Barajas,1350000.0,4,,True,True,True,True,True,3
-105959560,https://www.idealista.com/inmueble/105959560/,calle Brújula,303.0,,Madrid,Madrid,Moncloa,1350000.0,4,,True,True,True,False,True,5
-101215323,https://www.idealista.com/inmueble/101215323/,calle de Jorge Juan,151.0,1,Madrid,Madrid,Barrio de Salamanca,995000.0,3,True,,False,False,True,False,2
-100843738,https://www.idealista.com/inmueble/100843738/,Abedul,593.0,bj,Madrid,Madrid,Chamartín,2490000.0,4,True,True,False,True,True,False,3
 105205924,https://www.idealista.com/inmueble/105205924/,calle del Príncipe de Vergara,160.0,7,Madrid,Madrid,Chamartín,1290000.0,4,True,,True,False,True,False,3
 105276550,https://www.idealista.com/inmueble/105276550/,calle de Alcalá,165.0,6,Madrid,Madrid,Barrio de Salamanca,1690000.0,3,True,,False,False,False,False,3
-104611757,https://www.idealista.com/inmueble/104611757/,calle de Artesa de Segre,80.0,bj,Madrid,Madrid,Moncloa,490000.0,1,True,True,False,True,True,True,1
 105624633,https://www.idealista.com/inmueble/105624633/,subdistrict Malasaña-Universidad,90.0,3,Madrid,Madrid,Centro,575000.0,2,True,,False,False,True,False,1
+102043012,https://www.idealista.com/inmueble/102043012/,subdistrict Nueva España,181.0,bj,Madrid,Madrid,Chamartín,1650000.0,2,False,True,,,True,,2
 103997327,https://www.idealista.com/inmueble/103997327/,calle de Ayala,306.0,4,Madrid,Madrid,Barrio de Salamanca,2630000.0,5,True,,True,False,True,False,4
-105326648,https://www.idealista.com/inmueble/105326648/,calle de Rafael de la Hoz,233.0,,Madrid,Madrid,San Blas,1250000.0,5,,True,True,True,True,True,6
-101215323,https://www.idealista.com/inmueble/101215323/,calle de Jorge Juan,151.0,1,Madrid,Madrid,Barrio de Salamanca,995000.0,3,True,,False,False,True,False,2
+104611757,https://www.idealista.com/inmueble/104611757/,calle de Artesa de Segre,80.0,bj,Madrid,Madrid,Moncloa,490000.0,1,True,True,False,True,True,True,1
+100843738,https://www.idealista.com/inmueble/100843738/,Abedul,593.0,bj,Madrid,Madrid,Chamartín,2490000.0,4,True,True,False,True,True,False,3
 105122568,https://www.idealista.com/inmueble/105122568/,calle de Goya,379.0,3,Madrid,Madrid,Barrio de Salamanca,3600000.0,5,True,,True,False,True,False,4
 102093483,https://www.idealista.com/inmueble/102093483/,calle de la Academia,124.0,2,Madrid,Madrid,Retiro,1200000.0,2,True,,False,False,True,False,2
+105326648,https://www.idealista.com/inmueble/105326648/,calle de Rafael de la Hoz,233.0,,Madrid,Madrid,San Blas,1250000.0,5,,True,True,True,True,True,6
+103334938,https://www.idealista.com/inmueble/103334938/,calle de Zumárraga,780.0,,Madrid,Madrid,Moncloa,2950000.0,7,,True,True,True,False,False,8
+104804013,https://www.idealista.com/inmueble/104804013/,calle Joaquín Bau,258.0,9,Madrid,Madrid,Chamartín,2290000.0,4,True,True,,,True,,4
+106133910,https://www.idealista.com/inmueble/106133910/,calle del Labrador,84.0,5,Madrid,Madrid,Arganzuela,435000.0,2,True,,False,False,True,False,2
 102922909,https://www.idealista.com/inmueble/102922909/,paseo de los Jacintos,269.0,,Madrid,Madrid,Chamartín,3000000.0,4,,True,,True,True,True,5
 105622597,https://www.idealista.com/inmueble/105622597/,subdistrict Sanchinarro,87.0,,Madrid,Madrid,Hortaleza,535000.0,2,True,True,False,True,True,False,2
 103933173,https://www.idealista.com/inmueble/103933173/,calle de Dulce Chacón,64.0,3,Madrid,Madrid,Hortaleza,435000.0,0,True,True,True,True,True,True,1
-106133910,https://www.idealista.com/inmueble/106133910/,calle del Labrador,84.0,5,Madrid,Madrid,Arganzuela,435000.0,2,True,,False,False,True,False,2
-103334938,https://www.idealista.com/inmueble/103334938/,calle de Zumárraga,780.0,,Madrid,Madrid,Moncloa,2950000.0,7,,True,True,True,False,False,8
-104804013,https://www.idealista.com/inmueble/104804013/,calle Joaquín Bau,258.0,9,Madrid,Madrid,Chamartín,2290000.0,4,True,True,,,True,,4
 105229967,https://www.idealista.com/inmueble/105229967/,calle de Viriato,330.0,1,Madrid,Madrid,Chamberí,1540000.0,5,True,,False,True,True,False,3
+105456571,https://www.idealista.com/inmueble/105456571/,subdistrict Nueva España,68.0,3,Madrid,Madrid,Chamartín,530000.0,1,True,True,False,True,True,True,1
+105438638,https://www.idealista.com/inmueble/105438638/,de Alberto Aguilera,170.0,1,Madrid,Madrid,Centro,1060000.0,4,True,,False,False,True,False,4
+105003804,https://www.idealista.com/inmueble/105003804/,paseo de Moret,268.0,1,Madrid,Madrid,Moncloa,2100000.0,4,True,True,False,False,True,False,3
 106167991,https://www.idealista.com/inmueble/106167991/,subdistrict Recoletos,244.0,3,Madrid,Madrid,Barrio de Salamanca,3450000.0,4,True,,False,False,True,False,4
-28839965,https://www.idealista.com/inmueble/28839965/,calle Paradores,1525.0,,Madrid,Madrid,Moncloa,3100000.0,5,,True,True,True,True,True,6
 105033854,https://www.idealista.com/inmueble/105033854/,calle del Conde de Peñalver,172.0,2,Madrid,Madrid,Barrio de Salamanca,2350000.0,4,True,,False,False,False,False,4
+106018836,https://www.idealista.com/inmueble/106018836/,subdistrict Bernabéu-Hispanoamérica,89.0,3,Madrid,Madrid,Chamartín,670000.0,2,True,True,True,False,True,False,1
 105704914,https://www.idealista.com/inmueble/105704914/,calle de Hilarión Eslava,265.0,2,Madrid,Madrid,Chamberí,1200000.0,5,True,True,True,False,True,False,3
 102389393,https://www.idealista.com/inmueble/102389393/,calle del Duque de Sesto,121.0,7,Madrid,Madrid,Barrio de Salamanca,1280000.0,3,True,,False,False,True,False,2
-105133420,https://www.idealista.com/inmueble/105133420/,paseo del General Martínez Campos,204.0,3,Madrid,Madrid,Chamberí,2300000.0,3,True,True,True,False,True,False,4
-106018836,https://www.idealista.com/inmueble/106018836/,subdistrict Bernabéu-Hispanoamérica,89.0,3,Madrid,Madrid,Chamartín,670000.0,2,True,True,True,False,True,False,1
-105456571,https://www.idealista.com/inmueble/105456571/,subdistrict Nueva España,68.0,3,Madrid,Madrid,Chamartín,530000.0,1,True,True,False,True,True,True,1
-103342470,https://www.idealista.com/inmueble/103342470/,avenida de Fuentelarreina,510.0,,Madrid,Madrid,Moncloa,2250000.0,6,,True,True,True,True,True,7
-104613472,https://www.idealista.com/inmueble/104613472/,calle de Francisco de Rojas,227.0,3,Madrid,Madrid,Chamberí,2400000.0,3,True,,False,False,True,False,3
 100843565,https://www.idealista.com/inmueble/100843565/,Abedul,486.0,3,Madrid,Madrid,Chamartín,2600000.0,4,True,,,,True,,3
-105438638,https://www.idealista.com/inmueble/105438638/,de Alberto Aguilera,170.0,1,Madrid,Madrid,Centro,1060000.0,4,True,,False,False,True,False,4
+103342470,https://www.idealista.com/inmueble/103342470/,avenida de Fuentelarreina,510.0,,Madrid,Madrid,Moncloa,2250000.0,6,,True,True,True,True,True,7
+28839965,https://www.idealista.com/inmueble/28839965/,calle Paradores,1525.0,,Madrid,Madrid,Moncloa,3100000.0,5,,True,True,True,True,True,6
 103610280,https://www.idealista.com/inmueble/103610280/,calle del General Díaz Porlier,116.0,4,Madrid,Madrid,Barrio de Salamanca,1380000.0,3,True,,True,False,True,False,2
-105003804,https://www.idealista.com/inmueble/105003804/,paseo de Moret,268.0,1,Madrid,Madrid,Moncloa,2100000.0,4,True,True,False,False,True,False,3
+105133420,https://www.idealista.com/inmueble/105133420/,paseo del General Martínez Campos,204.0,3,Madrid,Madrid,Chamberí,2300000.0,3,True,True,True,False,True,False,4
+104613472,https://www.idealista.com/inmueble/104613472/,calle de Francisco de Rojas,227.0,3,Madrid,Madrid,Chamberí,2400000.0,3,True,,False,False,True,False,3
 103775089,https://www.idealista.com/inmueble/103775089/,paseo de la Castellana,279.0,4,Madrid,Madrid,Tetuán,2200000.0,4,True,True,True,,True,,4
 97416073,https://www.idealista.com/inmueble/97416073/,subdistrict Almagro,457.0,5,Madrid,Madrid,Chamberí,4200000.0,5,True,True,True,,False,,3
 101133402,https://www.idealista.com/inmueble/101133402/,subdistrict El Viso,256.0,6,Madrid,Madrid,Chamartín,2300000.0,5,True,True,,,True,,5
-104428294,https://www.idealista.com/inmueble/104428294/,calle Paradores,541.0,,Madrid,Madrid,Moncloa,2300000.0,5,,True,True,True,False,True,5
-103628504,https://www.idealista.com/inmueble/103628504/,calle de Amorebieta,1768.0,,Madrid,Madrid,Moncloa,2900000.0,8,,True,,True,True,True,12
 105547133,https://www.idealista.com/inmueble/105547133/,calle Peguerinos,709.0,,Madrid,Madrid,Moncloa,3900000.0,5,,True,False,True,True,True,6
-92717047,https://www.idealista.com/inmueble/92717047/,calle del Maestro Ripoll,370.0,,Madrid,Madrid,Chamartín,4300000.0,5,,,,,False,True,4
-104179896,https://www.idealista.com/inmueble/104179896/,Amorabieta,1768.0,,Madrid,Madrid,Moncloa,2900000.0,8,,True,True,True,True,True,9
-105903977,https://www.idealista.com/inmueble/105903977/,subdistrict Montecarmelo,125.0,1,Madrid,Madrid,Fuencarral,645000.0,3,True,True,False,True,False,True,2
+105943886,https://www.idealista.com/inmueble/105943886/,calle de los Gavilanes,207.0,5,Madrid,Madrid,Fuencarral,920000.0,4,True,True,False,True,False,True,3
+104428294,https://www.idealista.com/inmueble/104428294/,calle Paradores,541.0,,Madrid,Madrid,Moncloa,2300000.0,5,,True,True,True,False,True,5
+103682987,https://www.idealista.com/inmueble/103682987/,calle Lamiaco,555.0,,Madrid,Madrid,Moncloa,2950000.0,6,,True,True,True,True,True,6
+105447635,https://www.idealista.com/inmueble/105447635/,subdistrict Montecarmelo,117.0,1,Madrid,Madrid,Fuencarral,595000.0,2,True,True,True,True,True,True,2
+103628504,https://www.idealista.com/inmueble/103628504/,calle de Amorebieta,1768.0,,Madrid,Madrid,Moncloa,2900000.0,8,,True,,True,True,True,12
+105205924,https://www.idealista.com/inmueble/105205924/,calle del Príncipe de Vergara,160.0,7,Madrid,Madrid,Chamartín,1290000.0,4,True,,True,False,True,False,3
+105276550,https://www.idealista.com/inmueble/105276550/,calle de Alcalá,165.0,6,Madrid,Madrid,Barrio de Salamanca,1690000.0,3,True,,False,False,False,False,3
+105624633,https://www.idealista.com/inmueble/105624633/,subdistrict Malasaña-Universidad,90.0,3,Madrid,Madrid,Centro,575000.0,2,True,,False,False,True,False,1
+102043012,https://www.idealista.com/inmueble/102043012/,subdistrict Nueva España,181.0,bj,Madrid,Madrid,Chamartín,1650000.0,2,False,True,,,True,,2
+103997327,https://www.idealista.com/inmueble/103997327/,calle de Ayala,306.0,4,Madrid,Madrid,Barrio de Salamanca,2630000.0,5,True,,True,False,True,False,4
+104611757,https://www.idealista.com/inmueble/104611757/,calle de Artesa de Segre,80.0,bj,Madrid,Madrid,Moncloa,490000.0,1,True,True,False,True,True,True,1
+100843738,https://www.idealista.com/inmueble/100843738/,Abedul,593.0,bj,Madrid,Madrid,Chamartín,2490000.0,4,True,True,False,True,True,False,3
+105122568,https://www.idealista.com/inmueble/105122568/,calle de Goya,379.0,3,Madrid,Madrid,Barrio de Salamanca,3600000.0,5,True,,True,False,True,False,4
+102093483,https://www.idealista.com/inmueble/102093483/,calle de la Academia,124.0,2,Madrid,Madrid,Retiro,1200000.0,2,True,,False,False,True,False,2
+105326648,https://www.idealista.com/inmueble/105326648/,calle de Rafael de la Hoz,233.0,,Madrid,Madrid,San Blas,1250000.0,5,,True,True,True,True,True,6
+103334938,https://www.idealista.com/inmueble/103334938/,calle de Zumárraga,780.0,,Madrid,Madrid,Moncloa,2950000.0,7,,True,True,True,False,False,8
+104804013,https://www.idealista.com/inmueble/104804013/,calle Joaquín Bau,258.0,9,Madrid,Madrid,Chamartín,2290000.0,4,True,True,,,True,,4
+106133910,https://www.idealista.com/inmueble/106133910/,calle del Labrador,84.0,5,Madrid,Madrid,Arganzuela,435000.0,2,True,,False,False,True,False,2
+102922909,https://www.idealista.com/inmueble/102922909/,paseo de los Jacintos,269.0,,Madrid,Madrid,Chamartín,3000000.0,4,,True,,True,True,True,5
+105622597,https://www.idealista.com/inmueble/105622597/,subdistrict Sanchinarro,87.0,,Madrid,Madrid,Hortaleza,535000.0,2,True,True,False,True,True,False,2
+103933173,https://www.idealista.com/inmueble/103933173/,calle de Dulce Chacón,64.0,3,Madrid,Madrid,Hortaleza,435000.0,0,True,True,True,True,True,True,1
+105229967,https://www.idealista.com/inmueble/105229967/,calle de Viriato,330.0,1,Madrid,Madrid,Chamberí,1540000.0,5,True,,False,True,True,False,3
+105456571,https://www.idealista.com/inmueble/105456571/,subdistrict Nueva España,68.0,3,Madrid,Madrid,Chamartín,530000.0,1,True,True,False,True,True,True,1
+105438638,https://www.idealista.com/inmueble/105438638/,de Alberto Aguilera,170.0,1,Madrid,Madrid,Centro,1060000.0,4,True,,False,False,True,False,4
+105003804,https://www.idealista.com/inmueble/105003804/,paseo de Moret,268.0,1,Madrid,Madrid,Moncloa,2100000.0,4,True,True,False,False,True,False,3
+106167991,https://www.idealista.com/inmueble/106167991/,subdistrict Recoletos,244.0,3,Madrid,Madrid,Barrio de Salamanca,3450000.0,4,True,,False,False,True,False,4
+105033854,https://www.idealista.com/inmueble/105033854/,calle del Conde de Peñalver,172.0,2,Madrid,Madrid,Barrio de Salamanca,2350000.0,4,True,,False,False,False,False,4
+106018836,https://www.idealista.com/inmueble/106018836/,subdistrict Bernabéu-Hispanoamérica,89.0,3,Madrid,Madrid,Chamartín,670000.0,2,True,True,True,False,True,False,1
+105704914,https://www.idealista.com/inmueble/105704914/,calle de Hilarión Eslava,265.0,2,Madrid,Madrid,Chamberí,1200000.0,5,True,True,True,False,True,False,3
+102389393,https://www.idealista.com/inmueble/102389393/,calle del Duque de Sesto,121.0,7,Madrid,Madrid,Barrio de Salamanca,1280000.0,3,True,,False,False,True,False,2
+100843565,https://www.idealista.com/inmueble/100843565/,Abedul,486.0,3,Madrid,Madrid,Chamartín,2600000.0,4,True,,,,True,,3
+103342470,https://www.idealista.com/inmueble/103342470/,avenida de Fuentelarreina,510.0,,Madrid,Madrid,Moncloa,2250000.0,6,,True,True,True,True,True,7
+28839965,https://www.idealista.com/inmueble/28839965/,calle Paradores,1525.0,,Madrid,Madrid,Moncloa,3100000.0,5,,True,True,True,True,True,6
+103610280,https://www.idealista.com/inmueble/103610280/,calle del General Díaz Porlier,116.0,4,Madrid,Madrid,Barrio de Salamanca,1380000.0,3,True,,True,False,True,False,2
+105133420,https://www.idealista.com/inmueble/105133420/,paseo del General Martínez Campos,204.0,3,Madrid,Madrid,Chamberí,2300000.0,3,True,True,True,False,True,False,4
+104613472,https://www.idealista.com/inmueble/104613472/,calle de Francisco de Rojas,227.0,3,Madrid,Madrid,Chamberí,2400000.0,3,True,,False,False,True,False,3
+103775089,https://www.idealista.com/inmueble/103775089/,paseo de la Castellana,279.0,4,Madrid,Madrid,Tetuán,2200000.0,4,True,True,True,,True,,4
+97416073,https://www.idealista.com/inmueble/97416073/,subdistrict Almagro,457.0,5,Madrid,Madrid,Chamberí,4200000.0,5,True,True,True,,False,,3
+101133402,https://www.idealista.com/inmueble/101133402/,subdistrict El Viso,256.0,6,Madrid,Madrid,Chamartín,2300000.0,5,True,True,,,True,,5
+105547133,https://www.idealista.com/inmueble/105547133/,calle Peguerinos,709.0,,Madrid,Madrid,Moncloa,3900000.0,5,,True,False,True,True,True,6
+105943886,https://www.idealista.com/inmueble/105943886/,calle de los Gavilanes,207.0,5,Madrid,Madrid,Fuencarral,920000.0,4,True,True,False,True,False,True,3
+104428294,https://www.idealista.com/inmueble/104428294/,calle Paradores,541.0,,Madrid,Madrid,Moncloa,2300000.0,5,,True,True,True,False,True,5
+103682987,https://www.idealista.com/inmueble/103682987/,calle Lamiaco,555.0,,Madrid,Madrid,Moncloa,2950000.0,6,,True,True,True,True,True,6
+105447635,https://www.idealista.com/inmueble/105447635/,subdistrict Montecarmelo,117.0,1,Madrid,Madrid,Fuencarral,595000.0,2,True,True,True,True,True,True,2
+103628504,https://www.idealista.com/inmueble/103628504/,calle de Amorebieta,1768.0,,Madrid,Madrid,Moncloa,2900000.0,8,,True,,True,True,True,12
+104983919,https://www.idealista.com/inmueble/104983919/,subdistrict Huertas-Cortes,153.0,2,Madrid,Madrid,Centro,1040000.0,3,True,,False,False,True,False,2
+28853762,https://www.idealista.com/inmueble/28853762/,subdistrict Palomas,334.0,,Madrid,Madrid,Hortaleza,2050000.0,5,,True,True,True,True,True,5
+105692476,https://www.idealista.com/inmueble/105692476/,calle de Linneo,108.0,1,Madrid,Madrid,Arganzuela,515000.0,4,True,,False,False,False,False,2
+105965544,https://www.idealista.com/inmueble/105965544/,subdistrict Ciudad Universitaria,510.0,,Madrid,Madrid,Moncloa,2250000.0,6,,True,True,True,False,True,7
+105939781,https://www.idealista.com/inmueble/105939781/,paseo de la Castellana,153.0,2,Madrid,Madrid,Tetuán,975000.0,3,True,,True,False,True,False,2
+104566289,https://www.idealista.com/inmueble/104566289/,calle de la Fuente del Berro,186.0,3,Madrid,Madrid,Barrio de Salamanca,1490000.0,5,True,True,False,False,True,False,2
+104870436,https://www.idealista.com/inmueble/104870436/,paseo de la Castellana,43.0,bj,Madrid,Madrid,Chamartín,333000.0,1,True,,False,False,False,False,1
+105975586,https://www.idealista.com/inmueble/105975586/,calle de la Huerta del Bayo,45.0,1,Madrid,Madrid,Centro,265000.0,2,False,,False,False,False,False,1
+105501144,https://www.idealista.com/inmueble/105501144/,calle de Castelló,230.0,5,Madrid,Madrid,Barrio de Salamanca,2400000.0,3,True,True,False,False,True,False,3
+105329169,https://www.idealista.com/inmueble/105329169/,calle de Castelló,170.0,1,Madrid,Madrid,Barrio de Salamanca,1499000.0,3,True,,False,False,True,False,3
+103094871,https://www.idealista.com/inmueble/103094871/,calle de O'Donnell,460.0,3,Madrid,Madrid,Barrio de Salamanca,3195000.0,6,True,True,True,False,True,False,4
+106185285,https://www.idealista.com/inmueble/106185285/,calle de Gascones,407.0,,Madrid,Madrid,Fuencarral,1495000.0,8,,True,True,True,True,True,5
+105980504,https://www.idealista.com/inmueble/105980504/,calle Amaltea,114.0,5,Madrid,Madrid,Arganzuela,712000.0,2,True,True,True,True,True,False,2
+105505309,https://www.idealista.com/inmueble/105505309/,calle de Núñez de Balboa,340.0,3,Madrid,Madrid,Barrio de Salamanca,3945000.0,5,True,,True,False,True,True,4
+104870397,https://www.idealista.com/inmueble/104870397/,paseo de la Castellana,37.0,bj,Madrid,Madrid,Chamartín,333000.0,1,True,,False,False,True,False,1
+105781276,https://www.idealista.com/inmueble/105781276/,avenida del Planetario,222.0,8,Madrid,Madrid,Arganzuela,949000.0,2,True,True,True,True,True,False,2
+102455413,https://www.idealista.com/inmueble/102455413/,calle de Serrano,125.0,1,Madrid,Madrid,Barrio de Salamanca,1275000.0,3,True,,True,False,True,False,4
+102634540,https://www.idealista.com/inmueble/102634540/,avenida de los Andes,152.0,4,Madrid,Madrid,Hortaleza,1280000.0,3,True,True,True,True,True,True,2
+101329238,https://www.idealista.com/inmueble/101329238/,calle del Doctor Esquerdo,128.0,5,Madrid,Madrid,Barrio de Salamanca,795000.0,3,True,,False,False,False,False,2
+105882131,https://www.idealista.com/inmueble/105882131/,calle Vallandes,111.0,5,Madrid,Madrid,Usera,503000.0,3,True,True,False,False,True,False,2
+104812684,https://www.idealista.com/inmueble/104812684/,subdistrict Bernabéu-Hispanoamérica,372.0,,Madrid,Madrid,Chamartín,1985000.0,5,,True,True,,True,,6
+100736950,https://www.idealista.com/inmueble/100736950/,calle Lagasca,203.0,1,Madrid,Madrid,Barrio de Salamanca,3450000.0,4,True,,False,False,True,False,5
+104544416,https://www.idealista.com/inmueble/104544416/,calle de Lope de Rueda,62.0,4,Madrid,Madrid,Barrio de Salamanca,660000.0,2,True,,False,False,True,False,2
+105885694,https://www.idealista.com/inmueble/105885694/,subdistrict Bernabéu-Hispanoamérica,260.0,,Madrid,Madrid,Chamartín,2500000.0,4,,,False,False,True,True,4
+105697150,https://www.idealista.com/inmueble/105697150/,calle de Alejandro Dumas,86.0,6,Madrid,Madrid,Arganzuela,797000.0,2,True,True,True,True,True,True,2
+103005702,https://www.idealista.com/inmueble/103005702/,subdistrict Palacio,215.0,1,Madrid,Madrid,Centro,2575000.0,4,True,,False,False,True,False,4
+105575130,https://www.idealista.com/inmueble/105575130/,subdistrict Huertas-Cortes,119.0,1,Madrid,Madrid,Centro,590000.0,2,True,,False,False,True,False,2
+105913955,https://www.idealista.com/inmueble/105913955/,subdistrict Huertas-Cortes,299.0,3,Madrid,Madrid,Centro,2100000.0,4,True,True,True,False,True,False,3
+93752362,https://www.idealista.com/inmueble/93752362/,subdistrict Ciudad Universitaria,736.0,,Madrid,Madrid,Moncloa,3750000.0,5,,True,True,True,True,True,6
+103967986,https://www.idealista.com/inmueble/103967986/,subdistrict Mirasierra,489.0,,Madrid,Madrid,Fuencarral,2500000.0,5,,True,True,True,False,True,4
+103366793,https://www.idealista.com/inmueble/103366793/,subdistrict Conde Orgaz-Piovera,216.0,bj,Madrid,Madrid,Hortaleza,1490000.0,4,True,True,True,True,True,True,3
+104161105,https://www.idealista.com/inmueble/104161105/,subdistrict Conde Orgaz-Piovera,969.0,,Madrid,Madrid,Hortaleza,4000000.0,6,,True,True,True,False,False,6
+105615858,https://www.idealista.com/inmueble/105615858/,calle Eibar,1674.0,,Madrid,Madrid,Moncloa,9000000.0,9,,True,True,True,True,True,13
+105510209,https://www.idealista.com/inmueble/105510209/,calle de Serrano,306.0,3,Madrid,Madrid,Barrio de Salamanca,4400000.0,4,True,,False,False,True,False,5
+105528295,https://www.idealista.com/inmueble/105528295/,calle del Conde de Peñalver,60.0,1,Madrid,Madrid,Barrio de Salamanca,550000.0,1,True,,False,False,True,False,1
+106151385,https://www.idealista.com/inmueble/106151385/,calle de Santiago,216.0,5,Madrid,Madrid,Centro,1600000.0,2,True,,False,False,True,False,3
+105521069,https://www.idealista.com/inmueble/105521069/,calle de Noblejas,164.0,2,Madrid,Madrid,Centro,1595000.0,3,True,,False,False,True,False,3
+106158829,https://www.idealista.com/inmueble/106158829/,paseo de la Castellana,163.0,5,Madrid,Madrid,Tetuán,960000.0,4,True,True,False,False,True,True,2
+105887409,https://www.idealista.com/inmueble/105887409/,calle de O'Donnell,120.0,4,Madrid,Madrid,Retiro,1240000.0,3,True,,False,False,True,False,2
+106149242,https://www.idealista.com/inmueble/106149242/,calle de Miguel Ángel,178.0,2,Madrid,Madrid,Chamberí,1695000.0,4,True,True,False,False,True,False,3
