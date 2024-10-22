@@ -1,7 +1,7 @@
  • Fuente de los Datos: API
  • Fecha de Recogida: 19/10/2024
  • Formato de los Datos: JSON 
- • Licencia de Uso: Licencias bajo las cuales se encuentran los datos (si aplica).
+ • Licencia de Uso: CC0 1.0 Universal https://creativecommons.org/publicdomain/zero/1.0/
  • Descripción de las Variables o Atributos: 
     
 En vivienda.csv:
