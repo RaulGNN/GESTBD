@@ -1,6 +1,6 @@
  • Fuente de los Datos: API
  • Fecha de Recogida: 19/10/2024
- • Formato de los Datos: JSON 
+ • Formato de los Datos: CSV 
  • Licencia de Uso: CC0 1.0 Universal https://creativecommons.org/publicdomain/zero/1.0/
  • Descripción de las Variables o Atributos: 
     
