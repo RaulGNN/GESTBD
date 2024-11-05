@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://example.org/IdealistaOntology#"
+         xml:base="http://example.org/IdealistaOntology"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:xml="http://www.w3.org/XML/1998/namespace"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:sch="http://schema.org/">
+         
+    <owl:Ontology rdf:about="http://example.org/IdealistaOntology"/>
+    
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+
+    <!-- http://example.org/IdealistaOntology#containsDataset -->
+    <owl:ObjectProperty rdf:about="#containsDataset">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="sch:DataCatalog"/>
+        <rdfs:range rdf:resource="sch:Dataset"/>
+        <rdfs:label xml:lang="en">containsDataset</rdfs:label>
+    </owl:ObjectProperty>
+
+    <!-- http://example.org/IdealistaOntology#hasMetadata -->
+    <owl:ObjectProperty rdf:about="#hasMetadata">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="sch:Dataset"/>
+        <rdfs:range rdf:resource="#Metadata"/>
+        <rdfs:label xml:lang="en">hasMetadata</rdfs:label>
+    </owl:ObjectProperty>
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+
+    <!-- http://example.org/IdealistaOntology#collectionDate -->
+    <owl:DatatypeProperty rdf:about="#collectionDate">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="#Metadata"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+        <rdfs:label xml:lang="en">collectionDate</rdfs:label>
+    </owl:DatatypeProperty>
+
+    <!-- http://example.org/IdealistaOntology#dataFormat -->
+    <owl:DatatypeProperty rdf:about="#dataFormat">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="#Metadata"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">dataFormat</rdfs:label>
+    </owl:DatatypeProperty>
+
+    <!-- http://example.org/IdealistaOntology#dataSource -->
+    <owl:DatatypeProperty rdf:about="#dataSource">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="#Metadata"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">dataSource</rdfs:label>
+    </owl:DatatypeProperty>
+
+    <!-- http://example.org/IdealistaOntology#district -->
+    <owl:DatatypeProperty rdf:about="#district">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="#MyApartment"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">district</rdfs:label>
+    </owl:DatatypeProperty>
+
+    <!-- http://example.org/IdealistaOntology#hasAirConditioning -->
+    <owl:DatatypeProperty rdf:about="#hasAirConditioning">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="#MyApartment"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#boolean"/>
+        <rdfs:label xml:lang="en">hasAirConditioning</rdfs:label>
+    </owl:DatatypeProperty>
+
+    <!-- http://example.org/IdealistaOntology#hasGarden -->
+    <owl:DatatypeProperty rdf:about="#hasGarden">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="#MyApartment"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#boolean"/>
+        <rdfs:label xml:lang="en">hasGarden</rdfs:label>
+    </owl:DatatypeProperty>
+
+    <!-- http://example.org/IdealistaOntology#hasParking -->
+    <owl:DatatypeProperty rdf:about="#hasParking">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="#MyApartment"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#boolean"/>
+        <rdfs:label xml:lang="en">hasParking</rdfs:label>
+    </owl:DatatypeProperty>
+
+    <!-- http://example.org/IdealistaOntology#hasSwimmingPool -->
+    <owl:DatatypeProperty rdf:about="#hasSwimmingPool">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="#MyApartment"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#boolean"/>
+        <rdfs:label xml:lang="en">hasSwimmingPool</rdfs:label>
+    </owl:DatatypeProperty>
+
+    <!-- http://example.org/IdealistaOntology#hasTerrace -->
+    <owl:DatatypeProperty rdf:about="#hasTerrace">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="#MyApartment"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#boolean"/>
+        <rdfs:label xml:lang="en">hasTerrace</rdfs:label>
+    </owl:DatatypeProperty>
+
+    <!-- http://example.org/IdealistaOntology#hasLift -->
+    <owl:DatatypeProperty rdf:about="#hasLift">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="#MyApartment"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#boolean"/>
+        <rdfs:label xml:lang="en">hasLift</rdfs:label>
+    </owl:DatatypeProperty>
+
+    <!-- http://example.org/IdealistaOntology#municipality -->
+    <owl:DatatypeProperty rdf:about="#municipality">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="#MyApartment"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">municipality</rdfs:label>
+    </owl:DatatypeProperty>
+
+    <!-- http://example.org/IdealistaOntology#propertyCode -->
+    <owl:DatatypeProperty rdf:about="#propertyCode">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="#MyApartment"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+        <rdfs:label xml:lang="en">propertyCode</rdfs:label>
+    </owl:DatatypeProperty>
+
+    <!-- http://example.org/IdealistaOntology#province -->
+    <owl:DatatypeProperty rdf:about="#province">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="#MyApartment"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">province</rdfs:label>
+    </owl:DatatypeProperty>
+
+    <!-- http://example.org/IdealistaOntology#usageLicense -->
+    <owl:DatatypeProperty rdf:about="#usageLicense">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="#Metadata"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">usageLicense</rdfs:label>
+    </owl:DatatypeProperty>
+
+    <!-- http://example.org/IdealistaOntology#variablesDescription -->
+    <owl:DatatypeProperty rdf:about="#variablesDescription">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="#Metadata"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">variablesDescription</rdfs:label>
+    </owl:DatatypeProperty>
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+    -->
+
+    <!-- http://example.org/IdealistaOntology#Metadata -->
+    <owl:Class rdf:about="#Metadata">
+        <rdfs:subClassOf rdf:resource="sch:Dataset"/>
+        <rdfs:label xml:lang="en">Metadata</rdfs:label>
+    </owl:Class>
+
+    <!-- http://example.org/IdealistaOntology#MyApartment -->
+    <owl:Class rdf:about="#MyApartment">
+        <rdfs:subClassOf rdf:resource="http://schema.org/Apartment"/>
+        <rdfs:label xml:lang="en">MyApartment</rdfs:label>
+    </owl:Class>
+
+    <!-- Referencias a clases de Schema.org -->
+    <owl:Class rdf:about="http://schema.org/Apartment">
+        <rdfs:label xml:lang="en">sch:Apartment</rdfs:label>
+    </owl:Class>
+
+    <owl:Class rdf:about="http://schema.org/DataCatalog">
+        <rdfs:label xml:lang="en">sch:DataCatalog</rdfs:label>
+    </owl:Class>
+
+    <owl:Class rdf:about="http://schema.org/Dataset">
+        <rdfs:subClassOf rdf:resource="http://schema.org/DataCatalog"/>
+        <rdfs:label xml:lang="en">sch:Dataset</rdfs:label>
+    </owl:Class>
+    
+</rdf:RDF>

@@ -1,0 +1,35 @@
+@prefix base: http://example.org/IdealistaOntology .
+@prefix ex: http://schema.org/Dataset .
+@prefix dct: http://purl.org/dc/terms/ .
+@prefix xsd: http://www.w3.org/2001/XMLSchema .
+
+
+ex:Dataset1 a ex:Dataset ;
+    dct:title "Viviendas" ;
+    ex:hasLocation ex:StorageLocation1 ;
+    ex:hasFormat "CSV"^^xsd:string .
+
+Definir la ubicación de almacenamiento
+ex:StorageLocation1 a ex:StorageLocation ;
+    ex:storageType "Base de Datos SQL" ;
+    ex:connectionString "postgresql://usuario:contraseña@localhost:5432/viviendas" .
+
+
+ex:Dataset2 a ex:Dataset ;
+    dct:title "Location" ;
+    ex:hasLocation ex:StorageLocation2 ;
+    ex:hasFormat "CSV"^^xsd:string .
+
+Definir la ubicación de almacenamiento
+ex:StorageLocation2 a ex:StorageLocation ;
+    ex:storageType "Base de Datos SQL" ;
+    ex:connectionString "postgresql://usuario:contraseña@localhost:5432/location" .
+
+ex:Dataset3 a ex:Dataset ;
+    dct:title "Descripcion" ;
+    ex:hasLocation ex:StorageLocation3 ;
+    ex:hasFormat "JSON"^^xsd:string .
+
+ex:StorageLocation3 a ex:StorageLocation ;
+    ex:storageType "Almacenamiento en Elasticsearch" ;
+    ex:connectionString "http://localhost:9200/" .
