@@ -1,0 +1,73 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:13
+    container_name: postgres
+    environment:
+      POSTGRES_USER: hive
+      POSTGRES_PASSWORD: hive_password
+      POSTGRES_DB: metastore
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  hadoop:
+    image: bde2020/hadoop-base:2.0.0-hadoop3.2.1-java8
+    container_name: hadoop
+    ports:
+      - "9870:9870"   # NameNode
+      - "8088:8088"   # ResourceManager
+    volumes:
+      - hadoop_data:/hadoop/dfs/name
+
+  hive:
+    image: bde2020/hive:2.3.2-postgresql-metastore
+    container_name: hive
+    environment:
+      HIVE_METASTORE_URI: thrift://hive-metastore:9083
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: 5432
+      POSTGRES_USER: hive
+      POSTGRES_PASSWORD: hive_password
+      POSTGRES_DB: metastore
+    depends_on:
+      - postgres
+      - hadoop
+    ports:
+      - "10000:10000"  # HiveServer2 Thrift
+      - "9083:9083"    # Hive Metastore
+
+  spark:
+    image: bitnami/spark:3
+    container_name: spark
+    environment:
+      - SPARK_MODE=master
+      - SPARK_MASTER_HOST=spark
+    ports:
+      - "8080:8080"    # Spark Master UI
+      - "7077:7077"    # Spark Master
+    depends_on:
+      - hadoop
+    volumes:
+      - spark_data:/spark
+
+  spark-worker:
+    image: bitnami/spark:3
+    container_name: spark-worker
+    environment:
+      - SPARK_MODE=worker
+      - SPARK_MASTER_URL=spark://spark:7077
+    depends_on:
+      - spark
+    ports:
+      - "8081:8081"    # Spark Worker UI
+    volumes:
+      - spark_worker_data:/spark
+
+volumes:
+  postgres_data:
+  hadoop_data:
+  spark_data:
+  spark_worker_data:
